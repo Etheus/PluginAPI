@@ -1,0 +1,5 @@
+name: PluginAPI
+version: 1.0.0
+main: me.etheus.pluginapi.PluginAPI
+description: A utility project containing some useful classes and APIs for Paper/Spigot plugin development.
+api-version: '1.16'
